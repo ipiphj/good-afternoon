@@ -3,3 +3,6 @@ git status -s
  git commit -a -m "direcotory structure"
 git push
 git pull
+
+创建并切换到分支
+git checkout -b better-random
