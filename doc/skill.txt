@@ -1,3 +1,5 @@
 git status -s
  git mv *.txt doc/
  git commit -a -m "direcotory structure"
+git push
+git pull
