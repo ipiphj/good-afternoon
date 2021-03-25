@@ -1,1 +1,3 @@
-123123123123123123123123123123123123
+git status -s
+ git mv *.txt doc/
+ git commit -a -m "direcotory structure"
